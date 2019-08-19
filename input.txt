@@ -1,0 +1,8 @@
+1,Alfreds Futterkiste,Maria Anders,Obere Str. 57,12209
+2,Ana Trujillo Emparedados y helados,Ana Trujillo,Avda. de la Constitución 2222,05021
+3,Antonio Moreno Taquería,Antonio Moreno,Mataderos 2312,05023
+
+
+10308,2,7,1996-09-18,3
+10309,37,3,1996-09-19,1
+10310,77,8,1996-09-20,2
